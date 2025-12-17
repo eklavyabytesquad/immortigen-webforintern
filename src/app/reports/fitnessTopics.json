@@ -1,0 +1,79 @@
+{
+  "topics": [
+    {
+      "topic": "Fitness & Performance",
+      "color": "rgba(85, 92, 245, 0.8)",
+      "image": "",
+      "subtopics": [
+        {
+          "title": "Chrono-fitness",
+          "points": [
+            "Exercise between 6–10 AM for peak energy and focus",
+            "Sleep early and consistently to support your body clock",
+            "Warm up longer in the morning to prevent injuries",
+            "Choose energizing workouts like walking or yoga",
+            "Hydrate after waking and take a light pre-workout snack",
+            "Get post-workout sunlight to improve mood and circadian rhythm"
+          ]
+        },
+        {
+          "title": "Muscle composition",
+          "points": [
+            "Do aerobic workouts such as running, cycling, or swimming",
+            "Perform steady cardio or moderate intervals 4–5 days weekly",
+            "Use light weights with high reps for endurance",
+            "Fuel workouts with carbs and proper hydration",
+            "Add yoga or stretching for muscle balance"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Mental Wellbeing",
+      "color": "rgba(81, 177, 229, 0.8)",
+      "image": "",
+      "subtopics": [
+        {
+          "title": "Stress regulation",
+          "points": [
+            "Practice deep breathing or meditation daily",
+            "Avoid screens 60 minutes before sleep",
+            "Maintain a consistent sleep schedule"
+          ]
+        },
+        {
+          "title": "Cognitive resilience",
+          "points": [
+            "Engage in puzzles or learning activities",
+            "Maintain social interactions",
+            "Get adequate omega-3 intake"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Nutrition & Diet",
+      "color": "rgba(34, 197, 94, 0.8)",
+      "image": "",
+      "subtopics": [
+        {
+          "title": "Balanced eating",
+          "points": [
+            "Include protein in every meal",
+            "Eat colorful vegetables daily",
+            "Limit processed foods and sugars",
+            "Stay hydrated throughout the day"
+          ]
+        },
+        {
+          "title": "Meal timing",
+          "points": [
+            "Eat breakfast within an hour of waking",
+            "Avoid heavy meals before bedtime",
+            "Space meals 4-5 hours apart"
+          ]
+        }
+      ]
+    }
+  ]
+}

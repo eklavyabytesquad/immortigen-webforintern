@@ -1,0 +1,159 @@
+{
+  "Heart": [
+    {
+      "category": "Genetic",
+      "biomarker": "HDL cholesterol levels",
+      "description": "HDL helps remove LDL from arteries, preventing blockages and lowering heart attack or stroke risk.",
+      "status": "H"
+    },
+    {
+      "category": "Genetic",
+      "biomarker": "Hypertension",
+      "description": "High blood pressure strains the heart and vessels, increasing risk of attack, stroke, and failure.",
+      "status": "M"
+    },
+    {
+      "category": "Genetic",
+      "biomarker": "Heart failure",
+      "description": "The heart cannot pump enough blood to meet body demands.",
+      "status": "M"
+    },
+    {
+      "category": "Genetic",
+      "biomarker": "Coronary artery disease",
+      "description": "Narrowing or blockage of coronary arteries due to plaque buildup.",
+      "status": "H"
+    },
+    {
+      "category": "Genetic",
+      "biomarker": "Atrial fibrillation",
+      "description": "Irregular rapid heartbeat in the upper heart chambers.",
+      "status": "H"
+    },
+    {
+      "category": "Genetic",
+      "biomarker": "Myocardial infarction",
+      "description": "Heart attack caused by blocked blood supply leading to tissue damage.",
+      "status": "L"
+    },
+    {
+      "category": "Genetic",
+      "biomarker": "Omega-6/Omega-3 ratio",
+      "description": "High omega-6 to omega-3 ratio increases inflammation and heart disease risk.",
+      "status": "L"
+    },
+    {
+      "category": "Genetic",
+      "biomarker": "Peripheral artery disease",
+      "description": "Narrowing of peripheral arteries reducing blood flow and increasing heart attack risk.",
+      "status": "L"
+    },
+    {
+      "category": "Genetic",
+      "biomarker": "Venous thromboembolism",
+      "description": "Blood clots in veins that may travel to lungs or heart and cause complications.",
+      "status": "M"
+    },
+    {
+      "category": "Blood",
+      "biomarker": "Cholesterol-Total",
+      "description": "Total cholesterol circulating in blood.",
+      "status": "M",
+      "value": "205 mg/dL"
+    },
+    {
+      "category": "Blood",
+      "biomarker": "CHOL/HDL Ratio",
+      "description": "Balance between harmful and protective cholesterol.",
+      "status": "M",
+      "value": "3.53"
+    },
+    {
+      "category": "Blood",
+      "biomarker": "HDL Cholesterol",
+      "description": "Good cholesterol that clears vessel plaques.",
+      "status": "H",
+      "value": "58 mg/dL"
+    },
+    {
+      "category": "Blood",
+      "biomarker": "LDL Cholesterol",
+      "description": "Bad cholesterol that builds in artery walls.",
+      "status": "H",
+      "value": "130 mg/dL"
+    },
+    {
+      "category": "Blood",
+      "biomarker": "LDL/HDL Ratio",
+      "description": "Proportion of bad to good cholesterol.",
+      "status": "L",
+      "value": "2.24"
+    },
+    {
+      "category": "Blood",
+      "biomarker": "Non-HDL Cholesterol",
+      "description": "Captures all harmful cholesterol types.",
+      "status": "M",
+      "value": "170 mg/dL"
+    },
+    {
+      "category": "Blood",
+      "biomarker": "Triglycerides",
+      "description": "High levels contribute to artery blockage.",
+      "status": "M",
+      "value": "155 mg/dL"
+    },
+    {
+      "category": "Blood",
+      "biomarker": "VLDL",
+      "description": "Transports triglycerides and contributes to plaque formation.",
+      "status": "H",
+      "value": "40 mg/dL"
+    },
+    {
+      "category": "Blood",
+      "biomarker": "Homocysteine",
+      "description": "High levels damage blood vessels and increase heart disease risk.",
+      "status": "L",
+      "value": "12 µmol/L"
+    },
+    {
+      "category": "Blood",
+      "biomarker": "HbA1c",
+      "description": "Long-term blood sugar control indicator.",
+      "status": "L",
+      "value": "5.1%"
+    },
+    {
+      "category": "Blood",
+      "biomarker": "APO A1",
+      "description": "Protein in HDL that helps remove cholesterol from blood vessels.",
+      "status": "H",
+      "value": "95 mg/dL"
+    },
+    {
+      "category": "Blood",
+      "biomarker": "APO B",
+      "description": "Protein in LDL/VLDL; high levels indicate greater heart disease risk.",
+      "status": "H",
+      "value": "180 mg/dL"
+    },
+    { "category": "Protein", "biomarker": "ACE2", "description": "", "status": "M" },
+    { "category": "Protein", "biomarker": "BMP4", "description": "", "status": "M" },
+    { "category": "Protein", "biomarker": "CTF1", "description": "", "status": "M" },
+    { "category": "Protein", "biomarker": "ERBB4", "description": "", "status": "L" },
+    { "category": "Protein", "biomarker": "GALNT10", "description": "", "status": "L" },
+    { "category": "Protein", "biomarker": "GALNT2", "description": "", "status": "L" },
+    { "category": "Protein", "biomarker": "GALNT3", "description": "", "status": "M" },
+    { "category": "Protein", "biomarker": "HDAC5", "description": "", "status": "M" },
+    { "category": "Protein", "biomarker": "HDAC9", "description": "", "status": "M" },
+    { "category": "Protein", "biomarker": "MYL11", "description": "", "status": "L" },
+    { "category": "Protein", "biomarker": "MYL3", "description": "", "status": "M" },
+    { "category": "Protein", "biomarker": "NPPC", "description": "", "status": "M" },
+    { "category": "Protein", "biomarker": "NPY", "description": "", "status": "L" },
+    { "category": "Protein", "biomarker": "PGF", "description": "", "status": "L" },
+    { "category": "Protein", "biomarker": "SIRT1", "description": "", "status": "L" },
+    { "category": "Protein", "biomarker": "TAB2", "description": "", "status": "M" },
+    { "category": "Protein", "biomarker": "TGFB1", "description": "", "status": "M" }
+  ]
+}

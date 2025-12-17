@@ -1,0 +1,83 @@
+[
+  { "disease": "HDL cholesterol levels", "risk_type": "M", "score": 50 },
+  { "disease": "Hypertension", "risk_type": "H", "score": 75 },
+  { "disease": "Heart failure", "risk_type": "M", "score": 55 },
+  { "disease": "Coronary artery disease", "risk_type": "M", "score": 43 },
+  { "disease": "Atrial fibrillation", "risk_type": "M", "score": 58 },
+  { "disease": "Myocardial infarction", "risk_type": "M", "score": 41 },
+  { "disease": "Omega-6 to Omega-3 ratio", "risk_type": "H", "score": 78 },
+  { "disease": "Peripheral artery disease", "risk_type": "M", "score": 66 },
+  { "disease": "Venous thromboembolism", "risk_type": "M", "score": 61 },
+  { "disease": "Acute Respiratory Distress Syndrome", "risk_type": "H", "score": 86 },
+
+  { "disease": "Lung function (FVC)", "risk_type": "H", "score": 88 },
+  { "disease": "Lung function (FEV1/FVC)", "risk_type": "H", "score": 79 },
+  { "disease": "Lung function (FEV1)", "risk_type": "H", "score": 89 },
+  { "disease": "Lung cancer", "risk_type": "H", "score": 72 },
+  { "disease": "Asthma", "risk_type": "H", "score": 78 },
+
+  { "disease": "Dementia", "risk_type": "H", "score": 91 },
+  { "disease": "Alzheimer's disease", "risk_type": "H", "score": 87 },
+  { "disease": "Fibrosis", "risk_type": "M", "score": 46 },
+  { "disease": "Epilepsy", "risk_type": "M", "score": 59 },
+  { "disease": "Narcolepsy", "risk_type": "M", "score": 62 },
+  { "disease": "Multiple sclerosis", "risk_type": "L", "score": 27 },
+  { "disease": "Parkinson's disease", "risk_type": "M", "score": 53 },
+  { "disease": "Juvenile Parkinson's", "risk_type": "M", "score": 49 },
+
+  { "disease": "Stroke", "risk_type": "M", "score": 44 },
+  { "disease": "Stroke (ischemic)", "risk_type": "M", "score": 60 },
+  { "disease": "C-reactive protein levels", "risk_type": "M", "score": 41 },
+
+  { "disease": "Rheumatoid arthritis", "risk_type": "M", "score": 45 },
+  { "disease": "Systemic lupus erythematosus", "risk_type": "L", "score": 35 },
+
+  { "disease": "OCD (Contamination dimension)", "risk_type": "H", "score": 70 },
+  { "disease": "Bipolar disorder", "risk_type": "H", "score": 78 },
+  { "disease": "Post-traumatic stress disorder", "risk_type": "H", "score": 73 },
+
+  { "disease": "Chronic kidney disease", "risk_type": "M", "score": 70 },
+  { "disease": "Glomerular filtration rate", "risk_type": "L", "score": 40 },
+  { "disease": "Schindler disease", "risk_type": "L", "score": 22 },
+
+  { "disease": "Colon cancer", "risk_type": "M", "score": 56 },
+  { "disease": "Gastric cancer", "risk_type": "M", "score": 65 },
+  { "disease": "Colorectal cancer", "risk_type": "M", "score": 45 },
+
+  { "disease": "Autoimmunity (MS, Lupus, RA)", "risk_type": "L", "score": 36 },
+  { "disease": "Immunosenescence", "risk_type": "H", "score": 71 },
+  { "disease": "Celiac disease", "risk_type": "M", "score": 62 },
+
+  { "disease": "Breast cancer", "risk_type": "L", "score": 19 },
+  { "disease": "Atopic dermatitis", "risk_type": "L", "score": 29 },
+  { "disease": "Melanoma", "risk_type": "L", "score": 33 },
+  { "disease": "Psoriasis", "risk_type": "L", "score": 28 },
+
+  { "disease": "ACL/PCL injury", "risk_type": "L", "score": 19 },
+
+  { "disease": "Diabetic nephropathy", "risk_type": "H", "score": 83 },
+  { "disease": "Diabetic retinopathy", "risk_type": "H", "score": 88 },
+  { "disease": "Obesity", "risk_type": "H", "score": 91 },
+  { "disease": "Metabolic syndrome", "risk_type": "M", "score": 59 },
+  { "disease": "Type 2 diabetes", "risk_type": "H", "score": 83 },
+  { "disease": "Type 1 diabetes", "risk_type": "M", "score": 57 },
+  { "disease": "Nonalcoholic fatty liver disease", "risk_type": "H", "score": 79 },
+
+  { "disease": "Acute myeloid leukemia", "risk_type": "L", "score": 29 },
+  { "disease": "Chronic myeloid leukemia", "risk_type": "H", "score": 74 },
+  { "disease": "Chronic lymphocytic leukemia", "risk_type": "L", "score": 26 },
+  { "disease": "Anaplastic large-cell lymphoma", "risk_type": "L", "score": 25 },
+
+  { "disease": "HIV", "risk_type": "L", "score": 39 },
+  { "disease": "Prostate cancer", "risk_type": "H", "score": 75 },
+  { "disease": "Pancreatic cancer", "risk_type": "L", "score": 36 },
+
+  { "disease": "Tumor (general)", "risk_type": "M", "score": 68 },
+  { "disease": "Brain tumor", "risk_type": "M", "score": 66 },
+
+  { "disease": "Osteoporosis", "risk_type": "L", "score": 24 },
+  { "disease": "Thyroid cancer", "risk_type": "L", "score": 31 },
+
+  { "disease": "Aging", "risk_type": "H", "score": 75 },
+  { "disease": "Fatty liver disease", "risk_type": "M", "score": 69 }
+]
